@@ -1,15 +1,15 @@
-// const {createApp} = Vue;
+const {createApp} = Vue;
 
-// createApp({
-//     data() {
-//         return {
+createApp({
+    data() {
+        return {
             
-//         }
-//     },
-//     methods: {
+      }
+  },
+    methods: {
             
-//     },
-//     mounted() {
+    },
+    mounted() {
         
-//     }
-// }).mount('#app');
+    }
+}).mount('#app');

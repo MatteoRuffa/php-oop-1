@@ -18,10 +18,12 @@
     <script src="https://cdn.jsdelivr.net/npm/luxon@3.4.4/build/global/luxon.min.js"></script>
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <script  src="./js-script/script.js" defer></script>
-    <title>default format</title>
+    <title> Php-oop-1</title>
 </head>
 
 <body>
     <header>
-        <h1></h1>
+        <div class="container">
+            <h1 style="text-transform: uppercase;" class="text-center py-3">blockboolster </h1>
+        </div>
     </header>
