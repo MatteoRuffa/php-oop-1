@@ -22,28 +22,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "https://image.tmdb.org/t/p/w342/5Di2tovzn8lnXWxigV6xm7yrL24.jpg",
-            "genre_ids": [
-                16,
-                12,
-                28,
-                14,
-                10751
-            ],
-            "id": 1147400,
-            "original_language": "fr",
-            "original_title": "Miraculous World : Paris, Les Aventures de Toxinelle et Griffe Noire",
-            "overview": "Miraculous holders from another world appear in Paris. They come from a parallel universe where everything is reversed: the holders of Ladybug and Black Cat Miraculouses, Shadybug and Claw Noir, are the bad guys, and the holder of the Butterfly Miraculous, Hesperia, is a superhero. Ladybug and Cat Noir will have to help Hesperia counter the attacks of their evil doubles and prevent them from seizing the Butterfly's Miraculous. Can our heroes also help Hesperia make Shadybug and Claw Noir better people?",
-            "popularity": 78.837,
-            "poster_path": "https://image.tmdb.org/t/p/w342/A46SghdyD9y7qQUxB5zOslospJ7.jpg",
-            "release_date": "2023-10-21",
-            "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
-            "video": false,
-            "vote_average": 6.935,
-            "vote_count": 62
-        },
-        {
-            "adult": false,
             "backdrop_path": "https://image.tmdb.org/t/p/w342/t5zCBSB5xMDKcDqe91qahCOUYVV.jpg",
             "genre_ids": [
                 27,

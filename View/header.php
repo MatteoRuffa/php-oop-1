@@ -21,7 +21,7 @@
     <title> Php-oop-1</title>
 </head>
 
-<body>
+<body style=" background: linear-gradient(to top, #000000 0%, rgba(0, 0, 0, 0) 100%);">
     <header>
         <div class="container">
             <h1 style="text-transform: uppercase;" class="text-center py-3">blockboolster </h1>
