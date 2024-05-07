@@ -13,7 +13,5 @@ class Book extends Product{
         $this->longDescription = $longDescription;
         $this->authors = $authors;
     }
-    public function get_id() {
-        return $this->id;
-    }
+   
 }

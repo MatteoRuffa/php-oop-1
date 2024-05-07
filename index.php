@@ -29,7 +29,7 @@ include __DIR__ .'/Models/Book.php';
             }
             ?>
         </div>
-        <h3 style="text-transform: uppercase;" class="text-center p-4 ">fnacbool</h3>
+        <h3 style="text-transform: uppercase; color: white;" class="text-center p-4 ">fnacbool</h3>
         <div class="d-flex flex-wrap ">
             <?php
             $bookjson = file_get_contents(__DIR__ . "/Models/books_db.json");
