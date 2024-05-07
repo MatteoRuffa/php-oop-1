@@ -1,5 +1,5 @@
 <?php
-include __DIR__ ."/movie_db.json";
+
 class Movie {
     public string $id;
     public string $title;
