@@ -6,6 +6,7 @@ include __DIR__ .'/Models/Book.php';
 ?>
 <main>
     <div class="container ">
+        <h3 style="text-transform: uppercase; " class="text-center p-4 ">blockboolster</h3>
         <div class="d-flex flex-wrap ">
             <?php
             $moviejson = file_get_contents(__DIR__ . "/Models/movie_db.json");
@@ -24,9 +25,13 @@ include __DIR__ .'/Models/Book.php';
             }
 
             foreach ($movies as $movie) {
-                include __DIR__ . '/View/card.php';
+                include __DIR__ . '/View/movieCard.php';
             }
-
+            ?>
+        </div>
+        <h3 style="text-transform: uppercase;" class="text-center p-4 ">fnacbool</h3>
+        <div class="d-flex flex-wrap ">
+            <?php
             $bookjson = file_get_contents(__DIR__ . "/Models/books_db.json");
             $booksData = json_decode($bookjson);
 

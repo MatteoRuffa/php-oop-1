@@ -21,9 +21,9 @@
     <title> Php-oop-1</title>
 </head>
 
-<body style=" background: linear-gradient(to top, #000000 0%, rgba(0, 0, 0, 0) 100%);">
+<body style=" background: linear-gradient(to top, #000000 50%, rgba(0, 0, 0, 0) 100%);">
     <header>
         <div class="container">
-            <h1 style="text-transform: uppercase;" class="text-center py-3">blockboolster </h1>
+            <h2 style="text-transform: uppercase;" class="text-center py-3">blockboolster and fnacbool </h2>
         </div>
     </header>
