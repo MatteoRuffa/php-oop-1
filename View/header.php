@@ -19,6 +19,29 @@
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <script  src="./js-script/script.js" defer></script>
     <title> Php-oop-1</title>
+    <style>
+        body {
+            font-family: "Montserrat", sans-serif;
+            font-weight: 300;
+            font-style: normal;
+        }       
+        .card-text {
+            overflow: auto;
+        }
+        .card-text::-webkit-scrollbar-thumb {
+            border-radius: 8px;
+            background-color: #363636;
+        }
+        .card-text::-webkit-scrollbar-track {
+            border-radius: 8px;
+            background-color: #e7e7e7;
+            border: 1px solid #cacaca;
+            box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+        }
+        .card-text::-webkit-scrollbar {                 
+            width: 12px;
+        }
+    </style>
 </head>
 
 <body style=" background: linear-gradient(to top, #000000 50%, rgba(0, 0, 0, 0) 100%);">
